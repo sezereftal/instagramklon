@@ -1,0 +1,10 @@
+.kelimelerarasi{
+    word-spacing:50px;
+}
+
+.yuvarlak {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
